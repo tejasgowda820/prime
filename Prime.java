@@ -10,7 +10,7 @@ public class PrimeExample{
 
   if(n==0||n==1){  
 
-   System.out.println(n+" is not prime number");      
+   System.out.println(n+" is not prime number!");      
 
   }else{  
 
